@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Lucas Carvalho 👋</h1>
+<p align="center"><i>Automação de processos com IA · AI-powered process automation</i></p>
 
-<!--
-**LucasCarvalho7n8n/LucasCarvalho7n8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🇧🇷 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** e em **Gestão de Sistemas de Informação**, com experiência em suporte técnico. Hoje meu foco é usar **inteligência artificial e automação** para eliminar tarefas repetitivas e fazer sistemas conversarem entre si.
+
+- ⚙️ Construo fluxos de automação com **n8n**
+- 🤖 Uso o **Claude** (e outros LLMs) para criar assistentes e agentes que resolvem problemas reais do dia a dia
+- 🔗 Integro sistemas, APIs e planilhas para simplificar rotinas de equipes
+- 🌱 Estudando agora: agentes de IA, MCP e automações mais inteligentes
+
+## 🇺🇸 About me
+
+I'm a **Systems Analysis & Development** and **Information Systems Management** technologist with a background in technical support. My focus today is using **AI and automation** to remove repetitive work and connect systems together.
+
+- ⚙️ I build automation workflows with **n8n**
+- 🤖 I use **Claude** (and other LLMs) to create assistants and agents that solve real, everyday problems
+- 🔗 I integrate systems, APIs and spreadsheets to streamline team routines
+- 🌱 Currently learning: AI agents, MCP and smarter automations
+
+## 🧰 Stack
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Contato · Contact
+
+Aberto a conversas sobre automação, IA e integrações. · Open to talk about automation, AI and integrations.
