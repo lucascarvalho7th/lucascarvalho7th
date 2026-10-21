@@ -31,6 +31,20 @@ I'm a **Systems Analysis & Development** and **Information Systems Management** 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contato · Contact
+---
 
-Aberto a conversas sobre automação, IA e integrações. · Open to talk about automation, AI and integrations.
+<p align="center"><b>Contact me · Fale comigo</b></p>
+
+<p align="center">
+  <a href="mailto:comerciallucascarvalho@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF" /></a>
+  <a href="https://www.linkedin.com/in/lucascarvalho1st"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C77DFF" /></a>
+  <a href="https://www.instagram.com/lucascarvalho7th"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C77DFF" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascarvalho7th/lucascarvalho7th/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascarvalho7th/lucascarvalho7th/github-breakout/images/breakout-light.svg" />
+    <img alt="Breakout game made from my contributions graph" src="https://raw.githubusercontent.com/lucascarvalho7th/lucascarvalho7th/github-breakout/images/breakout-light.svg" />
+  </picture>
+</p>
